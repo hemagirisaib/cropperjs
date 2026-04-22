@@ -18,7 +18,7 @@ Git commits message follows the [Conventional Commits guidelines](https://conven
 
 [MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com/)
 
-## Related projects
+## Related projects:
 
 - [angular-cropperjs](https://github.com/matheusdavidson/angular-cropperjs) by [@matheusdavidson](https://github.com/matheusdavidson)
 - [blazor-cropperjs](https://github.com/CropperBlazor/Cropper.Blazor) by [@ColdForeign](https://github.com/ColdForeign), [@MaxymGorn](https://github.com/MaxymGorn)
